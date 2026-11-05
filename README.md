@@ -1,1 +1,21 @@
-# RPG-Game
+# Python RPG Battle Simulator
+
+A text-based, turn-based command-line RPG game built in Python to explore and solidify Object-Oriented Programming (OOP) principles, state management, and defensive user input handling.
+
+## 🚀 Features
+
+- **Object-Oriented Design:** Clean `Hero` and `Monster` class architecture separating game entities and behaviors.
+- **Encapsulation & Validation:** Uses Python `@property` getters and setters to strictly constrain health boundaries (`0–100`).
+- **Dynamic Combat:** Features weapon dictionary mappings and randomized monster damage rolls using `random.randint`.
+- **Robust Error Handling:** Employs `while` loops and `try-except` blocks to prevent crashes from invalid user inputs.
+
+# 🎮 How to Play
+- # 1. Enter your name.
+- # 2. Select your hero from the available options.
+- # 3. Choose your weapon and survive the turn-based battle against the monster!
+
+## 🕹️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/john-fafunmi/repo-name.git](https://github.com/john-fafunmi/repo-name.git)
