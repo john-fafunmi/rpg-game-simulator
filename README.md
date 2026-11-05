@@ -2,6 +2,10 @@
 
 A text-based, turn-based command-line RPG game built in Python to explore and solidify Object-Oriented Programming (OOP) principles, state management, and defensive user input handling.
 
+## 🎯 Why I Built This
+
+This project was created as a hands-on exercise to master Object-Oriented Programming (OOP) fundamentals. The goal was to design and build a complete application entirely from scratch—focusing on data encapsulation, property validation, state management, and robust command-line interaction loops to strengthen core software engineering foundations.
+
 ## 🚀 Key Features
 
 - **Object-Oriented Design:** Clean `Hero` and `Monster` class architecture separating game entities and behaviors.
