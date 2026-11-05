@@ -9,7 +9,7 @@ A text-based, turn-based command-line RPG game built in Python to explore and so
 - **Dynamic Combat:** Features weapon dictionary mappings and randomized monster damage rolls using `random.randint`.
 - **Robust Error Handling:** Employs `while` loops and `try-except` blocks to prevent crashes from invalid user inputs.
 
-# 🎮 How to Play
+# How to Play
 - # 1. Enter your name.
 - # 2. Select your hero from the available options.
 - # 3. Choose your weapon and survive the turn-based battle against the monster!
