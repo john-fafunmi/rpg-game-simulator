@@ -18,7 +18,7 @@ I built this project to transition from writing basic Python scripts to practici
 
 ## ⚙️ How to Run
 
-1. Clone the repository:
+1. Clone the repository and navigate into the directory:
    ```bash
-   git clone [https://github.com/john-fafunmi/repo-name.git](https://github.com/john-fafunmi/repo-name.git)
-   cd repo-name
+   git clone [https://github.com/john-fafunmi/rpg-game-simulator.git](https://github.com/john-fafunmi/rpg-game-simulator.git)
+   cd rpg-game-simulator
